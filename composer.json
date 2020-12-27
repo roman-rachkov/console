@@ -1,0 +1,12 @@
+{
+    "name": "roman/console.git",
+    "authors": [
+        {
+            "name": "Rachkov Roman",
+            "email": "raachkoff.roman@yandex.ru"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.2"
+    }
+}
